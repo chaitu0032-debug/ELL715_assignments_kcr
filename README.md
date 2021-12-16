@@ -1,1 +1,1 @@
-# ELL715_assignments_kcr
+This consists of assignments done as part of the course digital image processing which includes basics image transformations, applying and observing effects of different filters and edge detection, image compression, and denoising using wavelets filter banks
